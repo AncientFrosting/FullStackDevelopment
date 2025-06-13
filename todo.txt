@@ -5,3 +5,5 @@
 3) Attend Classes
 
 4) Eat on Time
+
+5) Sleep on Time
